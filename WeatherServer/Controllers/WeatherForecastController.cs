@@ -29,5 +29,5 @@ namespace WeatherServer.Controllers
             })
             .ToArray();
         }
-    }
+    }  
 }
